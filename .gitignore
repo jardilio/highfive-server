@@ -1,0 +1,14 @@
+.idea
+**/*.DS_Store
+**/obj/
+**/bin/
+*.dbmdl
+packages/**/*
+**/*.user
+**/*.suo
+.nuget
+.vs
+TestResults
+*.log
+.build
+**/AssemblyFileInfo.cs
